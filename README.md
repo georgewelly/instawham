@@ -15,3 +15,6 @@
 
 - Your instagram activity exported
   - The followers and following files from that export moved to the root directory of the repo folder
+
+# Example output
+![image](https://github.com/user-attachments/assets/5231329d-7eff-4991-a245-0e9b20df8746)
