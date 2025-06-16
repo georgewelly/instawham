@@ -1,9 +1,17 @@
-# instawham
-short script to check following list, people that don't follow back etc
+# Instawham
 
-tidied up output in chatgpt
+**Instawham** is a lightweight Python script to analyze your Instagram followers and following lists. It helps you find users who don’t follow you back, users you don’t follow back, and calculates your follower/following ratio based on your Instagram data.
 
+---
 
-example output
+## Requirements
 
-![image](https://github.com/user-attachments/assets/c4f75d50-2699-48dd-9f2f-60f8553e573e)
+- **Python 3.x** — The script is written in Python and requires Python 3 or higher.
+- **BeautifulSoup4** — A Python library for parsing HTML. Install it via pip:
+ 
+  ```bash
+  pip install beautifulsoup4
+  ```
+
+- Your instagram activity exported
+  - The followers and following files from that export moved to the root directory of the repo folder
