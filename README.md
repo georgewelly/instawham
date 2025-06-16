@@ -1,7 +1,7 @@
 # instawham
 short script to check following list, people that don't follow back etc
 
-tidied up in chatgpt
+tidied up output in chatgpt
 
 
 example output
